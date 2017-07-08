@@ -128,6 +128,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chaoyi Zha http://cydrobolt.com
 - Charlie Kingston http://charliekingston.co.uk
 - Cheng Peng http://www.chengpeng.ca
+- Chetan Badhe https://chetanbadhe.me
 - Chetanya Kandhari http://availchet.github.io/
 - Chinmaya Kr. Patanaik https://pattu777.github.io
 - Chirag Aggarwal http://www.chi6rag.net
